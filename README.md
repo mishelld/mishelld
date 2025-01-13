@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Michelle  
 
-<!--
-**mishelld/mishelld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🎓 Recent Computer Science Graduate  
+I enjoy solving problems, am excited to build new software, and contribute to innovative projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills & Expertise  
+- **Programming Languages**: Python, Java, SQL, C++, C  
+- **Operating Systems**: Linux, Windows  
+- **Databases**: MongoDB, MySQL  
+
+---
+
+### 🚀 Featured Project  
+
+#### **Maximum Polygon Packing**  
+A project focused on efficiently fitting the maximum number of polygons into a defined area without overlap.  
+- **Languages**: Python  
+
+[Check it out here!](https://github.com/mishelld/Final_Project)
+
+---
+
+### 📫 Let's Connect  
+- **Email**: michelledubov@gmail.com  
+
+Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate. 👋  
