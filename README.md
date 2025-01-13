@@ -5,7 +5,7 @@ I enjoy solving problems, am excited to build new software, and contribute to in
 
 ---
 
-### 💻 Skills & Expertise  
+### 💻 Skills
 - **Programming Languages**: Python, Java, SQL, C++, C  
 - **Operating Systems**: Linux, Windows  
 - **Databases**: MongoDB, MySQL  
