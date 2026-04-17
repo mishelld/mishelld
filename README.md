@@ -17,7 +17,7 @@ I enjoy solving problems, building scalable software, and contributing to innova
 
 ### 🚀 Featured Projects
 
-#### **BoostUp – Final Project**
+#### **BoostUp**
 
 An AI-driven gamified platform that combines real-time performance tracking, rewards-based e-commerce, and personalized AI recommendations.
 
